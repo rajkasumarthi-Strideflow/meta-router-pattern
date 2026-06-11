@@ -6,6 +6,9 @@ short and long-term memory, HITL gates, and saga compensation (rollback).
 
 ---
 
+## Whitepaper
+[→ View the Architecture Whitepaper](https://rajkasumarthi-strideflow.github.io/meta-router-pattern/docs/whitepaper.html)
+
 ## Enterprise analog map
 
 | Prototype component      | Enterprise analog                              |
